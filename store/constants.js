@@ -1,0 +1,12 @@
+export const MOBILE_NUMBER_CHANGE = 'Change the mobile number';
+export const UNIT_CHANGE = 'Change the unit';
+export const MOBILE_NUMBER_VERIFIED = 'Mobile number verified';
+export const ROOM_ENTER = 'Enter a lobby or room';
+export const LOG_OUT = 'Log out current user';
+export const RANK_CUSTOMIZE = 'Customize the rank';
+export const RANK_SET = 'Set the rank setting';
+export const BOARD_ENTER = 'Enter a leaderboard';
+export const CLICK_INVITE = 'Click invite button';
+export const PREV_FLAG = 'Set the previous flag';
+export const LOG_IN = 'Log in a user';
+export const UPDATE_TOKEN = 'Update the accessToken';
